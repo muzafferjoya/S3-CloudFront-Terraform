@@ -74,7 +74,7 @@ price_class = "PriceClass_200"
 restrictions {
     geo_restriction {
       restriction_type = "whitelist"
-      locations        = ["US"]
+      locations        = ["US", "IN"]
     }
   }
 tags = {
